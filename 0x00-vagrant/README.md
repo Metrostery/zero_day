@@ -1,0 +1,1 @@
+Print uname in VM
